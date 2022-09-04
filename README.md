@@ -29,3 +29,7 @@ hugo
 ```
 
 However, the repository uses Github actions to automate to build the website when changes are pushed into `main` branch.
+
+## Edit contents in [forestry](https://forestry.io)
+
+Access to [forestry](https://forestry.io) and import this repository and start editing by GUI.
