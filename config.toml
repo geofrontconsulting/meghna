@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://geofrontconsulting.github.io/meghna"
-title = "Meghna"
+title = "GeoFront"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -203,7 +203,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2020 Designed by [Themefisher](https://themefisher.com) & Developed by [Gethugothemes](https://gethugothemes.com)"
+copyright = "Copyright &copy; 2022 GeoFront"
 
 ################################ France Language ########################
 #[Languages.fr]
